@@ -5,11 +5,7 @@ function Type() {
   return (
     <Typewriter
       options={{
-        strings: [
-          "Full Stack Developer",
-          "Machine Learning Expert",
-          "MERN Stack Developer",
-        ],
+        strings: ["Flutter App Developer", "C++ Developer", "Python Developer"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
